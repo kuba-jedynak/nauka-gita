@@ -1,6 +1,6 @@
 body {
     margin: 25px;
-
+    display: flex;
 }
 
 h2 {
